@@ -1,0 +1,1962 @@
+[
+  {
+    "pk": 101,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Chachapoyas",
+      "region_id": 1
+    }
+  },
+  {
+    "pk": 102,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Bagua",
+      "region_id": 1
+    }
+  },
+  {
+    "pk": 103,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Bongara",
+      "region_id": 1
+    }
+  },
+  {
+    "pk": 104,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Condorcanqui",
+      "region_id": 1
+    }
+  },
+  {
+    "pk": 105,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Luya",
+      "region_id": 1
+    }
+  },
+  {
+    "pk": 106,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Rodriguez de Mendoza",
+      "region_id": 1
+    }
+  },
+  {
+    "pk": 107,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Utcubamba",
+      "region_id": 1
+    }
+  },
+  {
+    "pk": 201,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huaraz",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 202,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Aija",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 203,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Antonio Raymondi",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 204,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Asuncion",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 205,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Bolognesi",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 206,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Carhuaz",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 207,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Carlos Fermin Fitzcarrald",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 208,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Casma",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 209,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Corongo",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 210,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huari",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 211,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huarmey",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 212,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huaylas",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 213,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Mariscal Luzuriaga",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 214,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Ocros",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 215,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Pallasca",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 216,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Pomabamba",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 217,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Recuay",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 218,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Santa",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 219,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Sihuas",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 220,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Yungay",
+      "region_id": 2
+    }
+  },
+  {
+    "pk": 301,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Abancay",
+      "region_id": 3
+    }
+  },
+  {
+    "pk": 302,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Andahuaylas",
+      "region_id": 3
+    }
+  },
+  {
+    "pk": 303,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Antabamba",
+      "region_id": 3
+    }
+  },
+  {
+    "pk": 304,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Aymaraes",
+      "region_id": 3
+    }
+  },
+  {
+    "pk": 305,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Cotabambas",
+      "region_id": 3
+    }
+  },
+  {
+    "pk": 306,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Chincheros",
+      "region_id": 3
+    }
+  },
+  {
+    "pk": 307,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Grau",
+      "region_id": 3
+    }
+  },
+  {
+    "pk": 401,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Arequipa",
+      "region_id": 4
+    }
+  },
+  {
+    "pk": 402,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Camana",
+      "region_id": 4
+    }
+  },
+  {
+    "pk": 403,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Caraveli",
+      "region_id": 4
+    }
+  },
+  {
+    "pk": 404,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Castilla",
+      "region_id": 4
+    }
+  },
+  {
+    "pk": 405,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Caylloma",
+      "region_id": 4
+    }
+  },
+  {
+    "pk": 406,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Condesuyos",
+      "region_id": 4
+    }
+  },
+  {
+    "pk": 407,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Islay",
+      "region_id": 4
+    }
+  },
+  {
+    "pk": 408,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "La Union",
+      "region_id": 4
+    }
+  },
+  {
+    "pk": 501,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huamanga",
+      "region_id": 5
+    }
+  },
+  {
+    "pk": 502,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Cangallo",
+      "region_id": 5
+    }
+  },
+  {
+    "pk": 503,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huanca Sancos",
+      "region_id": 5
+    }
+  },
+  {
+    "pk": 504,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huanta",
+      "region_id": 5
+    }
+  },
+  {
+    "pk": 505,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "La Mar",
+      "region_id": 5
+    }
+  },
+  {
+    "pk": 506,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Lucanas",
+      "region_id": 5
+    }
+  },
+  {
+    "pk": 507,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Parinacochas",
+      "region_id": 5
+    }
+  },
+  {
+    "pk": 508,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Paucar del Sara Sara",
+      "region_id": 5
+    }
+  },
+  {
+    "pk": 509,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Sucre",
+      "region_id": 5
+    }
+  },
+  {
+    "pk": 510,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Victor Fajardo",
+      "region_id": 5
+    }
+  },
+  {
+    "pk": 511,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Vilcas Huaman",
+      "region_id": 5
+    }
+  },
+  {
+    "pk": 601,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Cajamarca",
+      "region_id": 6
+    }
+  },
+  {
+    "pk": 602,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Cajabamba",
+      "region_id": 6
+    }
+  },
+  {
+    "pk": 603,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Celendin",
+      "region_id": 6
+    }
+  },
+  {
+    "pk": 604,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Chota",
+      "region_id": 6
+    }
+  },
+  {
+    "pk": 605,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Contumaza",
+      "region_id": 6
+    }
+  },
+  {
+    "pk": 606,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Cutervo",
+      "region_id": 6
+    }
+  },
+  {
+    "pk": 607,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Hualgayoc",
+      "region_id": 6
+    }
+  },
+  {
+    "pk": 608,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Jaen",
+      "region_id": 6
+    }
+  },
+  {
+    "pk": 609,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "San Ignacio",
+      "region_id": 6
+    }
+  },
+  {
+    "pk": 610,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "San Marcos",
+      "region_id": 6
+    }
+  },
+  {
+    "pk": 611,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "San Miguel",
+      "region_id": 6
+    }
+  },
+  {
+    "pk": 612,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "San Pablo",
+      "region_id": 6
+    }
+  },
+  {
+    "pk": 613,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Santa Cruz",
+      "region_id": 6
+    }
+  },
+  {
+    "pk": 701,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Prov. Const. del Callao",
+      "region_id": 7
+    }
+  },
+  {
+    "pk": 801,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Cusco",
+      "region_id": 8
+    }
+  },
+  {
+    "pk": 802,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Acomayo",
+      "region_id": 8
+    }
+  },
+  {
+    "pk": 803,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Anta",
+      "region_id": 8
+    }
+  },
+  {
+    "pk": 804,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Calca",
+      "region_id": 8
+    }
+  },
+  {
+    "pk": 805,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Canas",
+      "region_id": 8
+    }
+  },
+  {
+    "pk": 806,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Canchis",
+      "region_id": 8
+    }
+  },
+  {
+    "pk": 807,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Chumbivilcas",
+      "region_id": 8
+    }
+  },
+  {
+    "pk": 808,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Espinar",
+      "region_id": 8
+    }
+  },
+  {
+    "pk": 809,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "La Convencion",
+      "region_id": 8
+    }
+  },
+  {
+    "pk": 810,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Paruro",
+      "region_id": 8
+    }
+  },
+  {
+    "pk": 811,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Paucartambo",
+      "region_id": 8
+    }
+  },
+  {
+    "pk": 812,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Quispicanchi",
+      "region_id": 8
+    }
+  },
+  {
+    "pk": 813,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Urubamba",
+      "region_id": 8
+    }
+  },
+  {
+    "pk": 901,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huancavelica",
+      "region_id": 9
+    }
+  },
+  {
+    "pk": 902,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Acobamba",
+      "region_id": 9
+    }
+  },
+  {
+    "pk": 903,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Angaraes",
+      "region_id": 9
+    }
+  },
+  {
+    "pk": 904,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Castrovirreyna",
+      "region_id": 9
+    }
+  },
+  {
+    "pk": 905,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Churcampa",
+      "region_id": 9
+    }
+  },
+  {
+    "pk": 906,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huaytara",
+      "region_id": 9
+    }
+  },
+  {
+    "pk": 907,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Tayacaja",
+      "region_id": 9
+    }
+  },
+  {
+    "pk": 1001,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huanuco",
+      "region_id": 10
+    }
+  },
+  {
+    "pk": 1002,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Ambo",
+      "region_id": 10
+    }
+  },
+  {
+    "pk": 1003,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Dos de Mayo",
+      "region_id": 10
+    }
+  },
+  {
+    "pk": 1004,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huacaybamba",
+      "region_id": 10
+    }
+  },
+  {
+    "pk": 1005,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huamalies",
+      "region_id": 10
+    }
+  },
+  {
+    "pk": 1006,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Leoncio Prado",
+      "region_id": 10
+    }
+  },
+  {
+    "pk": 1007,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Marañon",
+      "region_id": 10
+    }
+  },
+  {
+    "pk": 1008,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Pachitea",
+      "region_id": 10
+    }
+  },
+  {
+    "pk": 1009,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Puerto Inca",
+      "region_id": 10
+    }
+  },
+  {
+    "pk": 1010,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Lauricocha",
+      "region_id": 10
+    }
+  },
+  {
+    "pk": 1011,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Yarowilca",
+      "region_id": 10
+    }
+  },
+  {
+    "pk": 1101,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Ica",
+      "region_id": 11
+    }
+  },
+  {
+    "pk": 1102,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Chincha",
+      "region_id": 11
+    }
+  },
+  {
+    "pk": 1103,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Nasca",
+      "region_id": 11
+    }
+  },
+  {
+    "pk": 1104,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Palpa",
+      "region_id": 11
+    }
+  },
+  {
+    "pk": 1105,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Pisco",
+      "region_id": 11
+    }
+  },
+  {
+    "pk": 1201,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huancayo",
+      "region_id": 12
+    }
+  },
+  {
+    "pk": 1202,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Concepcion",
+      "region_id": 12
+    }
+  },
+  {
+    "pk": 1203,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Chanchamayo",
+      "region_id": 12
+    }
+  },
+  {
+    "pk": 1204,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Jauja",
+      "region_id": 12
+    }
+  },
+  {
+    "pk": 1205,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Junin",
+      "region_id": 12
+    }
+  },
+  {
+    "pk": 1206,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Satipo",
+      "region_id": 12
+    }
+  },
+  {
+    "pk": 1207,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Tarma",
+      "region_id": 12
+    }
+  },
+  {
+    "pk": 1208,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Yauli",
+      "region_id": 12
+    }
+  },
+  {
+    "pk": 1209,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Chupaca",
+      "region_id": 12
+    }
+  },
+  {
+    "pk": 1301,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Trujillo",
+      "region_id": 13
+    }
+  },
+  {
+    "pk": 1302,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Ascope",
+      "region_id": 13
+    }
+  },
+  {
+    "pk": 1303,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Bolivar",
+      "region_id": 13
+    }
+  },
+  {
+    "pk": 1304,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Chepen",
+      "region_id": 13
+    }
+  },
+  {
+    "pk": 1305,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Julcan",
+      "region_id": 13
+    }
+  },
+  {
+    "pk": 1306,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Otuzco",
+      "region_id": 13
+    }
+  },
+  {
+    "pk": 1307,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Pacasmayo",
+      "region_id": 13
+    }
+  },
+  {
+    "pk": 1308,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Pataz",
+      "region_id": 13
+    }
+  },
+  {
+    "pk": 1309,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Sanchez Carrion",
+      "region_id": 13
+    }
+  },
+  {
+    "pk": 1310,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Santiago de Chuco",
+      "region_id": 13
+    }
+  },
+  {
+    "pk": 1311,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Gran Chimu",
+      "region_id": 13
+    }
+  },
+  {
+    "pk": 1312,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Viru",
+      "region_id": 13
+    }
+  },
+  {
+    "pk": 1401,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Chiclayo",
+      "region_id": 14
+    }
+  },
+  {
+    "pk": 1402,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Ferreñafe",
+      "region_id": 14
+    }
+  },
+  {
+    "pk": 1403,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Lambayeque",
+      "region_id": 14
+    }
+  },
+  {
+    "pk": 1501,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Lima",
+      "region_id": 15
+    }
+  },
+  {
+    "pk": 1502,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Barranca",
+      "region_id": 15
+    }
+  },
+  {
+    "pk": 1503,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Cajatambo",
+      "region_id": 15
+    }
+  },
+  {
+    "pk": 1504,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Canta",
+      "region_id": 15
+    }
+  },
+  {
+    "pk": 1505,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Cañete",
+      "region_id": 15
+    }
+  },
+  {
+    "pk": 1506,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huaral",
+      "region_id": 15
+    }
+  },
+  {
+    "pk": 1507,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huarochiri",
+      "region_id": 15
+    }
+  },
+  {
+    "pk": 1508,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huaura",
+      "region_id": 15
+    }
+  },
+  {
+    "pk": 1509,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Oyon",
+      "region_id": 15
+    }
+  },
+  {
+    "pk": 1510,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Yauyos",
+      "region_id": 15
+    }
+  },
+  {
+    "pk": 1601,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Maynas",
+      "region_id": 16
+    }
+  },
+  {
+    "pk": 1602,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Alto Amazonas",
+      "region_id": 16
+    }
+  },
+  {
+    "pk": 1603,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Loreto",
+      "region_id": 16
+    }
+  },
+  {
+    "pk": 1604,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Mariscal Ramon Castilla",
+      "region_id": 16
+    }
+  },
+  {
+    "pk": 1605,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Requena",
+      "region_id": 16
+    }
+  },
+  {
+    "pk": 1606,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Ucayali",
+      "region_id": 16
+    }
+  },
+  {
+    "pk": 1607,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Datem del Marañon",
+      "region_id": 16
+    }
+  },
+  {
+    "pk": 1608,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Putumayo",
+      "region_id": 16
+    }
+  },
+  {
+    "pk": 1701,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Tambopata",
+      "region_id": 17
+    }
+  },
+  {
+    "pk": 1702,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Manu",
+      "region_id": 17
+    }
+  },
+  {
+    "pk": 1703,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Tahuamanu",
+      "region_id": 17
+    }
+  },
+  {
+    "pk": 1801,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Mariscal Nieto",
+      "region_id": 18
+    }
+  },
+  {
+    "pk": 1802,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "General Sanchez Cerro",
+      "region_id": 18
+    }
+  },
+  {
+    "pk": 1803,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Ilo",
+      "region_id": 18
+    }
+  },
+  {
+    "pk": 1901,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Pasco",
+      "region_id": 19
+    }
+  },
+  {
+    "pk": 1902,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Daniel Alcides Carrion",
+      "region_id": 19
+    }
+  },
+  {
+    "pk": 1903,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Oxapampa",
+      "region_id": 19
+    }
+  },
+  {
+    "pk": 2001,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Piura",
+      "region_id": 20
+    }
+  },
+  {
+    "pk": 2002,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Ayabaca",
+      "region_id": 20
+    }
+  },
+  {
+    "pk": 2003,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huancabamba",
+      "region_id": 20
+    }
+  },
+  {
+    "pk": 2004,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Morropon",
+      "region_id": 20
+    }
+  },
+  {
+    "pk": 2005,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Paita",
+      "region_id": 20
+    }
+  },
+  {
+    "pk": 2006,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Sullana",
+      "region_id": 20
+    }
+  },
+  {
+    "pk": 2007,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Talara",
+      "region_id": 20
+    }
+  },
+  {
+    "pk": 2008,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Sechura",
+      "region_id": 20
+    }
+  },
+  {
+    "pk": 2101,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Puno",
+      "region_id": 21
+    }
+  },
+  {
+    "pk": 2102,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Azangaro",
+      "region_id": 21
+    }
+  },
+  {
+    "pk": 2103,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Carabaya",
+      "region_id": 21
+    }
+  },
+  {
+    "pk": 2104,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Chucuito",
+      "region_id": 21
+    }
+  },
+  {
+    "pk": 2105,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "El Collao",
+      "region_id": 21
+    }
+  },
+  {
+    "pk": 2106,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huancane",
+      "region_id": 21
+    }
+  },
+  {
+    "pk": 2107,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Lampa",
+      "region_id": 21
+    }
+  },
+  {
+    "pk": 2108,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Melgar",
+      "region_id": 21
+    }
+  },
+  {
+    "pk": 2109,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Moho",
+      "region_id": 21
+    }
+  },
+  {
+    "pk": 2110,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "San Antonio de Putina",
+      "region_id": 21
+    }
+  },
+  {
+    "pk": 2111,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "San Roman",
+      "region_id": 21
+    }
+  },
+  {
+    "pk": 2112,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Sandia",
+      "region_id": 21
+    }
+  },
+  {
+    "pk": 2113,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Yunguyo",
+      "region_id": 21
+    }
+  },
+  {
+    "pk": 2201,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Moyobamba",
+      "region_id": 22
+    }
+  },
+  {
+    "pk": 2202,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Bellavista",
+      "region_id": 22
+    }
+  },
+  {
+    "pk": 2203,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "El Dorado",
+      "region_id": 22
+    }
+  },
+  {
+    "pk": 2204,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huallaga",
+      "region_id": 22
+    }
+  },
+  {
+    "pk": 2205,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Lamas",
+      "region_id": 22
+    }
+  },
+  {
+    "pk": 2206,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Mariscal Caceres",
+      "region_id": 22
+    }
+  },
+  {
+    "pk": 2207,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Picota",
+      "region_id": 22
+    }
+  },
+  {
+    "pk": 2208,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Rioja",
+      "region_id": 22
+    }
+  },
+  {
+    "pk": 2209,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "San Martin",
+      "region_id": 22
+    }
+  },
+  {
+    "pk": 2210,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Tocache",
+      "region_id": 22
+    }
+  },
+  {
+    "pk": 2301,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Tacna",
+      "region_id": 23
+    }
+  },
+  {
+    "pk": 2302,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Candarave",
+      "region_id": 23
+    }
+  },
+  {
+    "pk": 2303,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Jorge Basadre",
+      "region_id": 23
+    }
+  },
+  {
+    "pk": 2304,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Tarata",
+      "region_id": 23
+    }
+  },
+  {
+    "pk": 2401,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Tumbes",
+      "region_id": 24
+    }
+  },
+  {
+    "pk": 2402,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Contralmirante Villar",
+      "region_id": 24
+    }
+  },
+  {
+    "pk": 2403,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Zarumilla",
+      "region_id": 24
+    }
+  },
+  {
+    "pk": 2501,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Coronel Portillo",
+      "region_id": 25
+    }
+  },
+  {
+    "pk": 2502,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Atalaya",
+      "region_id": 25
+    }
+  },
+  {
+    "pk": 2503,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Padre Abad",
+      "region_id": 25
+    }
+  },
+  {
+    "pk": 2504,
+    "model": "ubigeous.Province",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Purus",
+      "region_id": 25
+    }
+  }
+]

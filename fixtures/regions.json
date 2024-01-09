@@ -1,0 +1,227 @@
+[
+  {
+    "pk": 1,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Amazonas"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Ancash"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Apurimac"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Arequipa"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Ayacucho"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Cajamarca"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Callao"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Cusco"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huancavelica"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Huanuco"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Ica"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Junin"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "La Libertad"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Lambayeque"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Lima"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Loreto"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Madre de Dios"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Moquegua"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Pasco"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Piura"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Puno"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "San Martin"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Tacna"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Tumbes"
+    }
+  },
+  {
+    "pk": 25,
+    "model": "ubigeous.Region",
+    "fields": {
+      "created": "2023-04-17",
+      "updated": "2023-04-17",
+      "name": "Ucayali"
+    }
+  }
+]
